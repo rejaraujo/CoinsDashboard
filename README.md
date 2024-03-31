@@ -1,6 +1,8 @@
-# FrontEnd React Crypto App
+# Coins Dashboard
 
-Welcome to the React Crypto App! This project was created using `Create React App`, incorporating the power of `Redux` and the convenience of `Redux Toolkit`. The user interface is enhanced with the `Material UI library`.
+Feel free to use this app to keep track of the crypto coins. 
+
+This project was created using `Create React App`, incorporating the power of `Redux` and the convenience of `Redux Toolkit`. The user interface is enhanced with the `Material UI library`.
 
 ## GitHub Actions Status
 
